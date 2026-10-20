@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    margin-top: 20px;
+    color: white;
+    width: 200px;
+    padding: 10px 0px;
+    font-size: 25px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-shadow: 0px 0px 1px rgb(5, 4, 4);
+}
+#increment-btn {
+    background-color: red;
+}
+#save-btn {
+    background-color: rgb(0, 177, 12);
+}
+#reset-btn {
+    background-color: red;
+}
